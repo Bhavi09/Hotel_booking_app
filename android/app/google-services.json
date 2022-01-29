@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990768702371",
+    "project_id": "hotel-self-check-in-76e57",
+    "storage_bucket": "hotel-self-check-in-76e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990768702371:android:eb8c9d96aea3bfb135f016",
+        "android_client_info": {
+          "package_name": "com.example.hotel_check_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990768702371-ck7igmt83hrf861525j95q28g49m6deu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1VQfpDwDM7GApeJEp7SRV-Hs2h85Zk04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990768702371-ck7igmt83hrf861525j95q28g49m6deu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
